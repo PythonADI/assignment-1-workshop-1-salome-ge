@@ -1,6 +1,6 @@
 def main() -> None:
     # Write your solution here
-    first_name = "Salome"
+first_name = "Salome"
 last_name = "Khukhunaishvili"
 full_name = first_name + ' ' + last_name
 print(full_name) 
